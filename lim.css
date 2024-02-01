@@ -1,0 +1,29 @@
+
+
+body {margin: auto; background-image: url(background.jpg);
+background-size: 1980px;}
+
+body > div {text-align: center; margin: auto ;  width: 1220px;
+height: 900px;  ; background-color: rgba(0,0,0,0.5);
+margin-top: 30px; margin-right: 290px;border-radius: 20px;}
+
+img {  width: 280px; margin-top: 80px;}
+
+.titolo { color: limegreen; font-family: Arial, sans-serif;}
+
+nav > div {height: 50px; background-color: limegreen;
+margin-inline: 100px; }
+
+nav > div > button {margin-top: 16px ; margin-left: 6px;} 
+
+main > div { text-align:left ; color:  white; 
+margin-left: 108px;}
+
+.barragino { height: 35px; background-color: rgb(221, 147, 27);
+border-radius: 5px; margin-right: 700px;}
+
+.barraMike{ height: 35px; background-color: rgb(32, 189, 12);
+border-radius: 5px; margin-right: 400px;}
+
+.barraFede{ height: 35px; background-color: rgb(231, 44, 44);
+border-radius: 5px; margin-right: 900px;}
